@@ -1,0 +1,24 @@
+{
+    "name": "mkdocs",
+    "dockerComposeFile": ["../../docker-compose.yml"],
+    "service": "builder",
+    "workspaceFolder": "/home/devel/workspace",
+	"remoteEnv": { "PATH": "/home/devel/.local/bin:${containerEnv:PATH}" },
+	"postCreateCommand": "/home/devel/workspace/scripts/pip_install.sh",
+    "shutdownAction": "stopCompose",
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Set *default* container specific settings.json values on container create.
+			"settings": { 
+			},			
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"hediet.vscode-drawio",
+				"ms-vscode.live-server"
+			]
+		}
+	}
+}

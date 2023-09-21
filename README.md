@@ -1,0 +1,4 @@
+# Docker For Generating Documents
+
+本リポジトリはmkdocsを用いたドキュメント作成を迅速に行うためのテンプレートである。
+VSCodeによるdrawioベクターデータの編集やJupyterを用いたドキュメント作成も可能。

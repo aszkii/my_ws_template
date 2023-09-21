@@ -1,0 +1,21 @@
+site_name: Mkdocs Sample
+docs_dir: docs
+site_dir: site
+use_directory_urls: false
+extra_css:
+    - css/extra.css
+nav:
+  - Home: index.md
+  - Tool Design: tool_design.md
+  - Quick Start: notebooks/example.ipynb 
+
+plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+      show_input: True
+theme:
+  name: material
+  font:
+      text: Roboto
+  features:
+    - navigation.integrate

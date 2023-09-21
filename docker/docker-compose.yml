@@ -1,0 +1,21 @@
+
+version: '3.8'
+
+services:
+
+  builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    image: aszkii/mkdocs
+    container_name: mkdocs-container
+    # environment:
+    #   - http_proxy=
+    #   - https_proxy=
+    network_mode: "host"
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ..:/home/devel/workspace
+      - ~/Desktop:/home/devel/Desktop
+    command: /bin/sh -c "while sleep 1000; do :; done"

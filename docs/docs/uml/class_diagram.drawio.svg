@@ -1,0 +1,69 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="581px" height="306px" viewBox="-0.5 -0.5 581 306" content="&lt;mxfile&gt;&lt;diagram id=&quot;EjYjZ3xo4L8r1wPi-2Z3&quot; name=&quot;Page-1&quot;&gt;7Vnbbts4EP0aA92HBrr68hjJabtACgTrBbZ9pCVaIkqJAkXHdr9+h9LQuiaRUTe7D/ZLOIfDkTjnjIZgZm6YHT9LUqRfRUz5zLHi48xdzxzHXlo2/NHICRF7uaqRRLIYsQbYsJ8UQQvRPYtp2XFUQnDFii4YiTynkepgREpx6LrtBO8+tSAJHQCbiPAh+g+LVVqjS2fR4F8oS1LzZMvCF9+S6EcixT7H580cd1f96umMmFjoX6YkFocW5D7M3FAKoepRdgwp18k1aavXfXph9vzekuZqygLc0DPhe9x6yJleW7+dOpmMlAeWcZKDFexErjY4Y4NNOEtyGEewjkoAnqlUDJJ5jxNKFIBGKePxIzmJvX6zUkGmjBWkQrKfEJZwjAnTUqEunHnHY6NXAmwBKmkJPk9mu3YP+kqOHcdHUioEIsE5KUq2PW8jIzJheSCUEhk6DbOJCdY7pMcWhNn9TEVGlTyBC876PjKNpeB6y9o+NLo6yz5tacr1UM4o5eQcuqETBsjoOLurAbsDXjmrOC2VFD/OWtfp2DHOQ8EFELrOReVkiOZ0p0Zozlgc8ypYQSKWJ39r2tcf7QZ5rBau3Qb5CzesISkUUaQmRGefky3lT6JkigkdX9a+QSFYrqqs+MHMX1eIVKHIYROEVUxRIPpANdm4M7MTlqdUMjXK7WIyt8glCHMSlctfZ9K2B1RuSFZwGnJSlrdqvVK1rqxetbrWRIrnV+DYGSnXQLcvRnX/utdd8FTQAduwuaHSsWYvL+Oa/27FesOK1ZCAtTte9a8Uip/mI1XcrdYAchdad76uWycE227sN0t5hODpDF9Ys841CHVv398Lvr+Xk+k77/cB9l4ozkhSougHXZh/3Gr0KrTOJ350r1KjwzNSq7H+CaNbc71Wc3W6zdX3pp6frsCzefatuU4v3NVkhv+D5uoMT8S35vpKc72YzHdsroa6W3P9/TX6ns3VGTs09bijcUJNC6V8Kw4PDRBUAEwYijSUx/f6hg/QLRe6/QWpykyzjPbymcam0+l7uLMFC7GLLntdVdv0yNQ37QlU1NZ3sw7G62PbODURPzG9ebQgOxhi5RpAR7HvLHdlgCZUZZ3a1hOULyRZnxxeb7ql2MuIdiUAG0qoccPE6+S+KoqWCvwRERhMUk4Ue+7ejo4pA5/wpDXfdP6l7493fhOi3g+ual9X9gLZltWN5PVlWmdhEAkkQ04tNyzKF9/Ytubdw4q37FykwqAO2dTBOavTSmN48zosjUbqkT6Nsqgr9kZxbbWhgl/R2iRZLUZU5fyvVLXoUeTOl3er1q/XmKZrzF9ABfcE6915piG+IbW3xQBmc8Nfuzf/R3Ef/gU=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-354-31-202-26-0">
+            <rect x="354" y="31" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-354-65-202-26-0">
+            <rect x="354" y="65" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-247-202-26-0">
+            <rect x="374" y="247" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-374-281-202-26-0">
+            <rect x="374" y="281" width="202" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 44 L 0 18 L 210 18 L 210 44" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 44 L 0 52 L 210 52 L 210 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 44 L 210 44" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="104.5" y="35.5">
+                Client
+            </text>
+        </g>
+        <path d="M 0 48 L 210 48" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 26 L 350 0 L 560 0 L 560 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 26 L 350 86 L 560 86 L 560 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 26 L 560 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="454.5" y="17.5">
+                SampleClass
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-354-31-202-26-0)" font-size="12px">
+            <text x="355.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 350 56 L 560 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-354-65-202-26-0)" font-size="12px">
+            <text x="355.5" y="77.5">
+                + create(type): type
+            </text>
+        </g>
+        <path d="M 370 242 L 370 216 L 580 216 L 580 242" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 242 L 370 302 L 580 302 L 580 242" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 370 242 L 580 242" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="474.5" y="233.5">
+                SampleClassImpl
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-374-247-202-26-0)" font-size="12px">
+            <text x="375.5" y="259.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 370 272 L 580 272" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-374-281-202-26-0)" font-size="12px">
+            <text x="375.5" y="293.5">
+                + create(type): type
+            </text>
+        </g>
+        <path d="M 475 216 L 475 150 L 474.61 97.13" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 474.54 88.13 L 479.11 97.1 L 470.11 97.17 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 210 36.71 L 343.63 38.9" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 348.88 38.98 L 341.83 42.37 L 343.63 38.9 L 341.94 35.37 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
