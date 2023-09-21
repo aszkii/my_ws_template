@@ -11,4 +11,5 @@ RUN groupadd --gid $USER_GID $USER_NAME && \
     useradd --uid $USER_UID --gid $USER_GID -m ${USER_NAME} -s /bin/bash
 
 USER ${USER_NAME}
+RUN mkdir ${HOME}/workspace
 RUN echo 'PS1="${debian_chroot:+($debian_chroot)}\[\\\\033[01;32m\]\u@\h\[\\\\033[00m\]:\[\\\\033[01;33m\]\w\[\\\\033[00m\]\\n\$ "' >> ~/.bashrc
